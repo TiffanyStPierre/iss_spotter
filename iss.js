@@ -1,4 +1,5 @@
 const request = require('request');
+
 const ipRequestUrl = 'https://api.ipify.org?format=json';
 const geoRequestUrl = 'http://ipwho.is/';
 const flyOverRequestBaseUrl = 'https://iss-flyover.herokuapp.com/json/?';
